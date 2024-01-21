@@ -1,0 +1,1994 @@
+[
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Afghanistan",
+            "iso_code_2d": "AF",
+            "iso_code_3d": "AFG"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Albania",
+            "iso_code_2d": "AL",
+            "iso_code_3d": "ALB"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Algeria",
+            "iso_code_2d": "DZ",
+            "iso_code_3d": "DZA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "American Samoa",
+            "iso_code_2d": "AS",
+            "iso_code_3d": "ASM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Andorra",
+            "iso_code_2d": "AD",
+            "iso_code_3d": "AND"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Angola",
+            "iso_code_2d": "AO",
+            "iso_code_3d": "AGO"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Anguilla",
+            "iso_code_2d": "AI",
+            "iso_code_3d": "AIA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Antarctica",
+            "iso_code_2d": "AQ",
+            "iso_code_3d": "ATA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Antigua and Barbuda",
+            "iso_code_2d": "AG",
+            "iso_code_3d": "ATG"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Argentina",
+            "iso_code_2d": "AR",
+            "iso_code_3d": "ARG"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Armenia",
+            "iso_code_2d": "AM",
+            "iso_code_3d": "ARM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Aruba",
+            "iso_code_2d": "AW",
+            "iso_code_3d": "ABW"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Australia",
+            "iso_code_2d": "AU",
+            "iso_code_3d": "AUS"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Austria",
+            "iso_code_2d": "AT",
+            "iso_code_3d": "AUT"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Azerbaijan",
+            "iso_code_2d": "AZ",
+            "iso_code_3d": "AZE"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Bahamas (the)",
+            "iso_code_2d": "BS",
+            "iso_code_3d": "BHS"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Bahrain",
+            "iso_code_2d": "BH",
+            "iso_code_3d": "BHR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Bangladesh",
+            "iso_code_2d": "BD",
+            "iso_code_3d": "BGD"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Barbados",
+            "iso_code_2d": "BB",
+            "iso_code_3d": "BRB"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Belarus",
+            "iso_code_2d": "BY",
+            "iso_code_3d": "BLR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Belgium",
+            "iso_code_2d": "BE",
+            "iso_code_3d": "BEL"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Belize",
+            "iso_code_2d": "BZ",
+            "iso_code_3d": "BLZ"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Benin",
+            "iso_code_2d": "BJ",
+            "iso_code_3d": "BEN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Bermuda",
+            "iso_code_2d": "BM",
+            "iso_code_3d": "BMU"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Bhutan",
+            "iso_code_2d": "BT",
+            "iso_code_3d": "BTN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Bolivia (Plurinational State of)",
+            "iso_code_2d": "BO",
+            "iso_code_3d": "BOL"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Bonaire, Sint Eustatius and Saba",
+            "iso_code_2d": "BQ",
+            "iso_code_3d": "BES"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Bosnia and Herzegovina",
+            "iso_code_2d": "BA",
+            "iso_code_3d": "BIH"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Botswana",
+            "iso_code_2d": "BW",
+            "iso_code_3d": "BWA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Bouvet Island",
+            "iso_code_2d": "BV",
+            "iso_code_3d": "BVT"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Brazil",
+            "iso_code_2d": "BR",
+            "iso_code_3d": "BRA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "British Indian Ocean Territory (the)",
+            "iso_code_2d": "IO",
+            "iso_code_3d": "IOT"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Brunei Darussalam",
+            "iso_code_2d": "BN",
+            "iso_code_3d": "BRN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Bulgaria",
+            "iso_code_2d": "BG",
+            "iso_code_3d": "BGR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Burkina Faso",
+            "iso_code_2d": "BF",
+            "iso_code_3d": "BFA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Burundi",
+            "iso_code_2d": "BI",
+            "iso_code_3d": "BDI"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Cabo Verde",
+            "iso_code_2d": "CV",
+            "iso_code_3d": "CPV"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Cambodia",
+            "iso_code_2d": "KH",
+            "iso_code_3d": "KHM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Cameroon",
+            "iso_code_2d": "CM",
+            "iso_code_3d": "CMR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Canada",
+            "iso_code_2d": "CA",
+            "iso_code_3d": "CAN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Cayman Islands (the)",
+            "iso_code_2d": "KY",
+            "iso_code_3d": "CYM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Central African Republic (the)",
+            "iso_code_2d": "CF",
+            "iso_code_3d": "CAF"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Chad",
+            "iso_code_2d": "TD",
+            "iso_code_3d": "TCD"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Chile",
+            "iso_code_2d": "CL",
+            "iso_code_3d": "CHL"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "China",
+            "iso_code_2d": "CN",
+            "iso_code_3d": "CHN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Christmas Island",
+            "iso_code_2d": "CX",
+            "iso_code_3d": "CXR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Cocos (Keeling) Islands (the)",
+            "iso_code_2d": "CC",
+            "iso_code_3d": "CCK"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Colombia",
+            "iso_code_2d": "CO",
+            "iso_code_3d": "COL"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Comoros (the)",
+            "iso_code_2d": "KM",
+            "iso_code_3d": "COM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Congo (the Democratic Republic of the)",
+            "iso_code_2d": "CD",
+            "iso_code_3d": "COD"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Congo (the)",
+            "iso_code_2d": "CG",
+            "iso_code_3d": "COG"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Cook Islands (the)",
+            "iso_code_2d": "CK",
+            "iso_code_3d": "COK"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Costa Rica",
+            "iso_code_2d": "CR",
+            "iso_code_3d": "CRI"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Croatia",
+            "iso_code_2d": "HR",
+            "iso_code_3d": "HRV"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Cuba",
+            "iso_code_2d": "CU",
+            "iso_code_3d": "CUB"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Cura\u00e7ao",
+            "iso_code_2d": "CW",
+            "iso_code_3d": "CUW"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Cyprus",
+            "iso_code_2d": "CY",
+            "iso_code_3d": "CYP"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Czechia",
+            "iso_code_2d": "CZ",
+            "iso_code_3d": "CZE"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "C\u00f4te d'Ivoire",
+            "iso_code_2d": "CI",
+            "iso_code_3d": "CIV"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Denmark",
+            "iso_code_2d": "DK",
+            "iso_code_3d": "DNK"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Djibouti",
+            "iso_code_2d": "DJ",
+            "iso_code_3d": "DJI"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Dominica",
+            "iso_code_2d": "DM",
+            "iso_code_3d": "DMA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Dominican Republic (the)",
+            "iso_code_2d": "DO",
+            "iso_code_3d": "DOM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Ecuador",
+            "iso_code_2d": "EC",
+            "iso_code_3d": "ECU"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Egypt",
+            "iso_code_2d": "EG",
+            "iso_code_3d": "EGY"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "El Salvador",
+            "iso_code_2d": "SV",
+            "iso_code_3d": "SLV"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Equatorial Guinea",
+            "iso_code_2d": "GQ",
+            "iso_code_3d": "GNQ"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Eritrea",
+            "iso_code_2d": "ER",
+            "iso_code_3d": "ERI"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Estonia",
+            "iso_code_2d": "EE",
+            "iso_code_3d": "EST"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Eswatini",
+            "iso_code_2d": "SZ",
+            "iso_code_3d": "SWZ"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Ethiopia",
+            "iso_code_2d": "ET",
+            "iso_code_3d": "ETH"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Falkland Islands (the) [Malvinas]",
+            "iso_code_2d": "FK",
+            "iso_code_3d": "FLK"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Faroe Islands (the)",
+            "iso_code_2d": "FO",
+            "iso_code_3d": "FRO"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Fiji",
+            "iso_code_2d": "FJ",
+            "iso_code_3d": "FJI"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Finland",
+            "iso_code_2d": "FI",
+            "iso_code_3d": "FIN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "France",
+            "iso_code_2d": "FR",
+            "iso_code_3d": "FRA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "French Guiana",
+            "iso_code_2d": "GF",
+            "iso_code_3d": "GUF"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "French Polynesia",
+            "iso_code_2d": "PF",
+            "iso_code_3d": "PYF"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "French Southern Territories (the)",
+            "iso_code_2d": "TF",
+            "iso_code_3d": "ATF"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Gabon",
+            "iso_code_2d": "GA",
+            "iso_code_3d": "GAB"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Gambia (the)",
+            "iso_code_2d": "GM",
+            "iso_code_3d": "GMB"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Georgia",
+            "iso_code_2d": "GE",
+            "iso_code_3d": "GEO"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Germany",
+            "iso_code_2d": "DE",
+            "iso_code_3d": "DEU"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Ghana",
+            "iso_code_2d": "GH",
+            "iso_code_3d": "GHA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Gibraltar",
+            "iso_code_2d": "GI",
+            "iso_code_3d": "GIB"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Greece",
+            "iso_code_2d": "GR",
+            "iso_code_3d": "GRC"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Greenland",
+            "iso_code_2d": "GL",
+            "iso_code_3d": "GRL"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Grenada",
+            "iso_code_2d": "GD",
+            "iso_code_3d": "GRD"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Guadeloupe",
+            "iso_code_2d": "GP",
+            "iso_code_3d": "GLP"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Guam",
+            "iso_code_2d": "GU",
+            "iso_code_3d": "GUM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Guatemala",
+            "iso_code_2d": "GT",
+            "iso_code_3d": "GTM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Guernsey",
+            "iso_code_2d": "GG",
+            "iso_code_3d": "GGY"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Guinea",
+            "iso_code_2d": "GN",
+            "iso_code_3d": "GIN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Guinea-Bissau",
+            "iso_code_2d": "GW",
+            "iso_code_3d": "GNB"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Guyana",
+            "iso_code_2d": "GY",
+            "iso_code_3d": "GUY"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Haiti",
+            "iso_code_2d": "HT",
+            "iso_code_3d": "HTI"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Heard Island and McDonald Islands",
+            "iso_code_2d": "HM",
+            "iso_code_3d": "HMD"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Holy See (the)",
+            "iso_code_2d": "VA",
+            "iso_code_3d": "VAT"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Honduras",
+            "iso_code_2d": "HN",
+            "iso_code_3d": "HND"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Hong Kong",
+            "iso_code_2d": "HK",
+            "iso_code_3d": "HKG"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Hungary",
+            "iso_code_2d": "HU",
+            "iso_code_3d": "HUN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Iceland",
+            "iso_code_2d": "IS",
+            "iso_code_3d": "ISL"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "India",
+            "iso_code_2d": "IN",
+            "iso_code_3d": "IND"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Indonesia",
+            "iso_code_2d": "ID",
+            "iso_code_3d": "IDN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Iran (Islamic Republic of)",
+            "iso_code_2d": "IR",
+            "iso_code_3d": "IRN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Iraq",
+            "iso_code_2d": "IQ",
+            "iso_code_3d": "IRQ"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Ireland",
+            "iso_code_2d": "IE",
+            "iso_code_3d": "IRL"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Isle of Man",
+            "iso_code_2d": "IM",
+            "iso_code_3d": "IMN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Israel",
+            "iso_code_2d": "IL",
+            "iso_code_3d": "ISR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Italy",
+            "iso_code_2d": "IT",
+            "iso_code_3d": "ITA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Jamaica",
+            "iso_code_2d": "JM",
+            "iso_code_3d": "JAM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Japan",
+            "iso_code_2d": "JP",
+            "iso_code_3d": "JPN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Jersey",
+            "iso_code_2d": "JE",
+            "iso_code_3d": "JEY"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Jordan",
+            "iso_code_2d": "JO",
+            "iso_code_3d": "JOR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Kazakhstan",
+            "iso_code_2d": "KZ",
+            "iso_code_3d": "KAZ"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Kenya",
+            "iso_code_2d": "KE",
+            "iso_code_3d": "KEN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Kiribati",
+            "iso_code_2d": "KI",
+            "iso_code_3d": "KIR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Korea (the Democratic People's Republic of)",
+            "iso_code_2d": "KP",
+            "iso_code_3d": "PRK"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Korea (the Republic of)",
+            "iso_code_2d": "KR",
+            "iso_code_3d": "KOR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Kuwait",
+            "iso_code_2d": "KW",
+            "iso_code_3d": "KWT"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Kyrgyzstan",
+            "iso_code_2d": "KG",
+            "iso_code_3d": "KGZ"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Lao People's Democratic Republic (the)",
+            "iso_code_2d": "LA",
+            "iso_code_3d": "LAO"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Latvia",
+            "iso_code_2d": "LV",
+            "iso_code_3d": "LVA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Lebanon",
+            "iso_code_2d": "LB",
+            "iso_code_3d": "LBN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Lesotho",
+            "iso_code_2d": "LS",
+            "iso_code_3d": "LSO"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Liberia",
+            "iso_code_2d": "LR",
+            "iso_code_3d": "LBR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Libya",
+            "iso_code_2d": "LY",
+            "iso_code_3d": "LBY"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Liechtenstein",
+            "iso_code_2d": "LI",
+            "iso_code_3d": "LIE"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Lithuania",
+            "iso_code_2d": "LT",
+            "iso_code_3d": "LTU"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Luxembourg",
+            "iso_code_2d": "LU",
+            "iso_code_3d": "LUX"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Macao",
+            "iso_code_2d": "MO",
+            "iso_code_3d": "MAC"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Madagascar",
+            "iso_code_2d": "MG",
+            "iso_code_3d": "MDG"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Malawi",
+            "iso_code_2d": "MW",
+            "iso_code_3d": "MWI"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Malaysia",
+            "iso_code_2d": "MY",
+            "iso_code_3d": "MYS"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Maldives",
+            "iso_code_2d": "MV",
+            "iso_code_3d": "MDV"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Mali",
+            "iso_code_2d": "ML",
+            "iso_code_3d": "MLI"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Malta",
+            "iso_code_2d": "MT",
+            "iso_code_3d": "MLT"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Marshall Islands (the)",
+            "iso_code_2d": "MH",
+            "iso_code_3d": "MHL"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Martinique",
+            "iso_code_2d": "MQ",
+            "iso_code_3d": "MTQ"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Mauritania",
+            "iso_code_2d": "MR",
+            "iso_code_3d": "MRT"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Mauritius",
+            "iso_code_2d": "MU",
+            "iso_code_3d": "MUS"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Mayotte",
+            "iso_code_2d": "YT",
+            "iso_code_3d": "MYT"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Mexico",
+            "iso_code_2d": "MX",
+            "iso_code_3d": "MEX"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Micronesia (Federated States of)",
+            "iso_code_2d": "FM",
+            "iso_code_3d": "FSM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Moldova (the Republic of)",
+            "iso_code_2d": "MD",
+            "iso_code_3d": "MDA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Monaco",
+            "iso_code_2d": "MC",
+            "iso_code_3d": "MCO"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Mongolia",
+            "iso_code_2d": "MN",
+            "iso_code_3d": "MNG"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Montenegro",
+            "iso_code_2d": "ME",
+            "iso_code_3d": "MNE"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Montserrat",
+            "iso_code_2d": "MS",
+            "iso_code_3d": "MSR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Morocco",
+            "iso_code_2d": "MA",
+            "iso_code_3d": "MAR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Mozambique",
+            "iso_code_2d": "MZ",
+            "iso_code_3d": "MOZ"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Myanmar",
+            "iso_code_2d": "MM",
+            "iso_code_3d": "MMR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Namibia",
+            "iso_code_2d": "NA",
+            "iso_code_3d": "NAM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Nauru",
+            "iso_code_2d": "NR",
+            "iso_code_3d": "NRU"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Nepal",
+            "iso_code_2d": "NP",
+            "iso_code_3d": "NPL"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Netherlands (Kingdom of the)",
+            "iso_code_2d": "NL",
+            "iso_code_3d": "NLD"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "New Caledonia",
+            "iso_code_2d": "NC",
+            "iso_code_3d": "NCL"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "New Zealand",
+            "iso_code_2d": "NZ",
+            "iso_code_3d": "NZL"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Nicaragua",
+            "iso_code_2d": "NI",
+            "iso_code_3d": "NIC"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Niger (the)",
+            "iso_code_2d": "NE",
+            "iso_code_3d": "NER"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Nigeria",
+            "iso_code_2d": "NG",
+            "iso_code_3d": "NGA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Niue",
+            "iso_code_2d": "NU",
+            "iso_code_3d": "NIU"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Norfolk Island",
+            "iso_code_2d": "NF",
+            "iso_code_3d": "NFK"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "North Macedonia",
+            "iso_code_2d": "MK",
+            "iso_code_3d": "MKD"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Northern Mariana Islands (the)",
+            "iso_code_2d": "MP",
+            "iso_code_3d": "MNP"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Norway",
+            "iso_code_2d": "NO",
+            "iso_code_3d": "NOR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Oman",
+            "iso_code_2d": "OM",
+            "iso_code_3d": "OMN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Pakistan",
+            "iso_code_2d": "PK",
+            "iso_code_3d": "PAK"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Palau",
+            "iso_code_2d": "PW",
+            "iso_code_3d": "PLW"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Palestine, State of",
+            "iso_code_2d": "PS",
+            "iso_code_3d": "PSE"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Panama",
+            "iso_code_2d": "PA",
+            "iso_code_3d": "PAN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Papua New Guinea",
+            "iso_code_2d": "PG",
+            "iso_code_3d": "PNG"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Paraguay",
+            "iso_code_2d": "PY",
+            "iso_code_3d": "PRY"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Peru",
+            "iso_code_2d": "PE",
+            "iso_code_3d": "PER"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Philippines (the)",
+            "iso_code_2d": "PH",
+            "iso_code_3d": "PHL"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Pitcairn",
+            "iso_code_2d": "PN",
+            "iso_code_3d": "PCN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Poland",
+            "iso_code_2d": "PL",
+            "iso_code_3d": "POL"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Portugal",
+            "iso_code_2d": "PT",
+            "iso_code_3d": "PRT"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Puerto Rico",
+            "iso_code_2d": "PR",
+            "iso_code_3d": "PRI"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Qatar",
+            "iso_code_2d": "QA",
+            "iso_code_3d": "QAT"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Romania",
+            "iso_code_2d": "RO",
+            "iso_code_3d": "ROU"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Russian Federation (the)",
+            "iso_code_2d": "RU",
+            "iso_code_3d": "RUS"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Rwanda",
+            "iso_code_2d": "RW",
+            "iso_code_3d": "RWA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "R\u00e9union",
+            "iso_code_2d": "RE",
+            "iso_code_3d": "REU"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Saint Barth\u00e9lemy",
+            "iso_code_2d": "BL",
+            "iso_code_3d": "BLM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Saint Helena, Ascension and Tristan da Cunha",
+            "iso_code_2d": "SH",
+            "iso_code_3d": "SHN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Saint Kitts and Nevis",
+            "iso_code_2d": "KN",
+            "iso_code_3d": "KNA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Saint Lucia",
+            "iso_code_2d": "LC",
+            "iso_code_3d": "LCA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Saint Martin (French part)",
+            "iso_code_2d": "MF",
+            "iso_code_3d": "MAF"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Saint Pierre and Miquelon",
+            "iso_code_2d": "PM",
+            "iso_code_3d": "SPM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Saint Vincent and the Grenadines",
+            "iso_code_2d": "VC",
+            "iso_code_3d": "VCT"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Samoa",
+            "iso_code_2d": "WS",
+            "iso_code_3d": "WSM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "San Marino",
+            "iso_code_2d": "SM",
+            "iso_code_3d": "SMR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Sao Tome and Principe",
+            "iso_code_2d": "ST",
+            "iso_code_3d": "STP"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Saudi Arabia",
+            "iso_code_2d": "SA",
+            "iso_code_3d": "SAU"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Senegal",
+            "iso_code_2d": "SN",
+            "iso_code_3d": "SEN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Serbia",
+            "iso_code_2d": "RS",
+            "iso_code_3d": "SRB"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Seychelles",
+            "iso_code_2d": "SC",
+            "iso_code_3d": "SYC"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Sierra Leone",
+            "iso_code_2d": "SL",
+            "iso_code_3d": "SLE"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Singapore",
+            "iso_code_2d": "SG",
+            "iso_code_3d": "SGP"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Sint Maarten (Dutch part)",
+            "iso_code_2d": "SX",
+            "iso_code_3d": "SXM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Slovakia",
+            "iso_code_2d": "SK",
+            "iso_code_3d": "SVK"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Slovenia",
+            "iso_code_2d": "SI",
+            "iso_code_3d": "SVN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Solomon Islands",
+            "iso_code_2d": "SB",
+            "iso_code_3d": "SLB"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Somalia",
+            "iso_code_2d": "SO",
+            "iso_code_3d": "SOM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "South Africa",
+            "iso_code_2d": "ZA",
+            "iso_code_3d": "ZAF"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "South Georgia and the South Sandwich Islands",
+            "iso_code_2d": "GS",
+            "iso_code_3d": "SGS"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "South Sudan",
+            "iso_code_2d": "SS",
+            "iso_code_3d": "SSD"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Spain",
+            "iso_code_2d": "ES",
+            "iso_code_3d": "ESP"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Sri Lanka",
+            "iso_code_2d": "LK",
+            "iso_code_3d": "LKA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Sudan (the)",
+            "iso_code_2d": "SD",
+            "iso_code_3d": "SDN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Suriname",
+            "iso_code_2d": "SR",
+            "iso_code_3d": "SUR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Svalbard and Jan Mayen",
+            "iso_code_2d": "SJ",
+            "iso_code_3d": "SJM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Sweden",
+            "iso_code_2d": "SE",
+            "iso_code_3d": "SWE"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Switzerland",
+            "iso_code_2d": "CH",
+            "iso_code_3d": "CHE"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Syrian Arab Republic (the)",
+            "iso_code_2d": "SY",
+            "iso_code_3d": "SYR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Taiwan (Province of China)",
+            "iso_code_2d": "TW",
+            "iso_code_3d": "TWN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Tajikistan",
+            "iso_code_2d": "TJ",
+            "iso_code_3d": "TJK"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Tanzania, the United Republic of",
+            "iso_code_2d": "TZ",
+            "iso_code_3d": "TZA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Thailand",
+            "iso_code_2d": "TH",
+            "iso_code_3d": "THA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Timor-Leste",
+            "iso_code_2d": "TL",
+            "iso_code_3d": "TLS"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Togo",
+            "iso_code_2d": "TG",
+            "iso_code_3d": "TGO"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Tokelau",
+            "iso_code_2d": "TK",
+            "iso_code_3d": "TKL"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Tonga",
+            "iso_code_2d": "TO",
+            "iso_code_3d": "TON"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Trinidad and Tobago",
+            "iso_code_2d": "TT",
+            "iso_code_3d": "TTO"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Tunisia",
+            "iso_code_2d": "TN",
+            "iso_code_3d": "TUN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Turkmenistan",
+            "iso_code_2d": "TM",
+            "iso_code_3d": "TKM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Turks and Caicos Islands (the)",
+            "iso_code_2d": "TC",
+            "iso_code_3d": "TCA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Tuvalu",
+            "iso_code_2d": "TV",
+            "iso_code_3d": "TUV"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "T\u00fcrkiye",
+            "iso_code_2d": "TR",
+            "iso_code_3d": "TUR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Uganda",
+            "iso_code_2d": "UG",
+            "iso_code_3d": "UGA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Ukraine",
+            "iso_code_2d": "UA",
+            "iso_code_3d": "UKR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "United Arab Emirates (the)",
+            "iso_code_2d": "AE",
+            "iso_code_3d": "ARE"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "iso_code_2d": "GB",
+            "iso_code_3d": "GBR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "United States Minor Outlying Islands (the)",
+            "iso_code_2d": "UM",
+            "iso_code_3d": "UMI"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "United States of America (the)",
+            "iso_code_2d": "US",
+            "iso_code_3d": "USA"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Uruguay",
+            "iso_code_2d": "UY",
+            "iso_code_3d": "URY"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Uzbekistan",
+            "iso_code_2d": "UZ",
+            "iso_code_3d": "UZB"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Vanuatu",
+            "iso_code_2d": "VU",
+            "iso_code_3d": "VUT"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Venezuela (Bolivarian Republic of)",
+            "iso_code_2d": "VE",
+            "iso_code_3d": "VEN"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Viet Nam",
+            "iso_code_2d": "VN",
+            "iso_code_3d": "VNM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Virgin Islands (British)",
+            "iso_code_2d": "VG",
+            "iso_code_3d": "VGB"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Virgin Islands (U.S.)",
+            "iso_code_2d": "VI",
+            "iso_code_3d": "VIR"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Wallis and Futuna",
+            "iso_code_2d": "WF",
+            "iso_code_3d": "WLF"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Western Sahara*",
+            "iso_code_2d": "EH",
+            "iso_code_3d": "ESH"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Yemen",
+            "iso_code_2d": "YE",
+            "iso_code_3d": "YEM"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Zambia",
+            "iso_code_2d": "ZM",
+            "iso_code_3d": "ZMB"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "Zimbabwe",
+            "iso_code_2d": "ZW",
+            "iso_code_3d": "ZWE"
+        }
+    },
+    {
+        "model": "ip.country",
+        "fields": {
+            "name": "\u00c5land Islands",
+            "iso_code_2d": "AX",
+            "iso_code_3d": "ALA"
+        }
+    }
+]
