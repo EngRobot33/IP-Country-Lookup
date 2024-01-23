@@ -1,7 +1,18 @@
 # IP Country Lookup
 This is a restful API which returns the country data of a specific IP address.
 
-## Installation
+## Run with docker
+
+* First of all clone the project:
+```
+git clone https://github.com/EngRobot33/IP-Country-Lookup
+```
+* Then, run the application by docker compose:
+```
+sudo docker compose up --build
+```
+
+## Run without docker
 
 * First of all clone the project:
 ```
