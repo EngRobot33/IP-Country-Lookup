@@ -1,0 +1,30 @@
+version: '3'
+
+services:
+  db:
+    image: postgres:14.9-alpine
+    container_name: "postgres"
+    ports:
+      - "5433:5432"
+    environment:
+      POSTGRES_DB: ip-country-lookup
+      POSTGRES_USER: anonymous
+      POSTGRES_PASSWORD: anonymous
+
+  django:
+    build: .
+    container_name: "django"
+    command: sh -c "python manage.py migrate && python manage.py runserver 0.0.0.0:8000"
+    restart: always
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+    environment:
+      DB_NAME: 'ip-country-lookup'
+      DB_USER: anonymous
+      DB_PASS: anonymous
+      DB_HOST: postgres
+      DB_PORT: 5432
