@@ -40,6 +40,9 @@ class IP(models.Model):
             models.Index(fields=['country']),
         ]
 
+    def __str__(self):
+        return f"{self.address} | {self.country.name}"
+
     def save(self, *args, **kwargs):
         try:
             validate_ipv46_address(self.address)
